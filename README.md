@@ -4,7 +4,7 @@ Intake Form is a form which takes user's data and sending an API call to the ser
 
 ## Instalation
 
-Go to the intake-form folder and use the package manager [npm](https://www.npmjs.com/) to install Intake Form.
+Use the package manager [npm](https://www.npmjs.com/) to install Intake Form.
 
 ```bash
 npm install
